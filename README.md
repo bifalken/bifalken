@@ -1,18 +1,20 @@
 ### Oi, eu sou Bibiana Falkenbach 👋
 
+- Sou estudante bolsista na @Rocketseat. 
 - No momento estou aprendendo HTML, CSS e Javascript. 🌱
 - Tenho interesse em saber tudo que possa ajudar meus estudos. 📚
 - Pronomes: ela/dela 🌈
-- Fato engraçado: na verdade eu sou uma estudante de direito. Mas eu gosto de aprender a programar! 😝
-
+- Curiosidade: na verdade eu estou finalizando uma graduação em direito. Mas o que eu quero de verdade é trabalhar com programação! 😝
+- 
 ---
 
 ### Hi, I'm Bibiana Falkenbach 👋
 
+- I'm a scholarship student at @Rocketseat.
 - I’m currently learning HTML, CSS and Javascript. 🌱
 - I’m interested in knowing anything that can help to improve my studies. 📚
 - Pronouns: she/her 🌈
-- Fun fact: I'm actually a law student. But I like learning to code! 😝
+- Curiosity: I'm actually finishing a law degree. But what I really want is to work with programming! 😝
 
 ---
 
