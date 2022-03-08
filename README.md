@@ -5,7 +5,7 @@
 - Tenho interesse em saber tudo que possa ajudar meus estudos. 📚
 - Pronomes: ela/dela 🌈
 - Curiosidade: na verdade eu estou finalizando uma graduação em direito. Mas o que eu quero de verdade é trabalhar com programação! 😝
-- 
+
 ---
 
 ### Hi, I'm Bibiana Falkenbach 👋
